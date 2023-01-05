@@ -31,7 +31,33 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 <h3>Open source projects</h3>
-<h5> Coming Soon </h5>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/andreifed3/Photoshop-NFT-Generator"><b>Photoshop-NFT-Generator</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/andreifed3/Photoshop-NFT-Generator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/andreifed3/Photoshop-NFT-Generator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/andreifed3/Photoshop-NFT-Generator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/andreifed3/Photoshop-NFT-Generator?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/andreifed3/metadata-nft-generator"><b>Metadata NFT Generator</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/andreifed3/metadata-nft-generator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/andreifed3/metadata-nft-generator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/andreifed3/metadata-nft-generator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/andreifed3/metadata-nft-generator?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
 
 ------------
